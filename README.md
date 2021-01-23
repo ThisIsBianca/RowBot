@@ -7,3 +7,4 @@ The main goal of the course was to learn how to design and test an interactive s
 While rowing, the whole body is being used, except for the head which can move freely to a certain extent. Also interaction through speech recognition, a rapidly developing technology, could be seen as an opportunity to interact with the music player. Both interactions - through head-movements and through voice - have benefits and downsides. This project investigated the opportunities and limitations to use both head movements and speech recognition to control a system.
 ROWbot utilizes a Kinect to keep track of the user’s head-movements and speech. Furthermore, ROWbot uses a screen, attached to the rowing machine, to display a graphical user interface which visualizes the different functions that can be used.
 
+If you wish to know more about ROWBot, go here: https://www.irinabiancaserban.com/rowbot
